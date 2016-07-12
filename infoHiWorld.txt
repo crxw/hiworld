@@ -1,0 +1,12 @@
+Overview
+Do Hi World program in Python and share on GitHub.
+
+
+TODO
+
+
+
+Logs
+Thursday 12 July 2016 9:17 AM CST
+Created
+Collaborator DaleEMoore@gMail.Com
